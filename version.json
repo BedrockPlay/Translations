@@ -33,6 +33,10 @@
     "esp": {
       "name": "Spanish",
       "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/esp.yml"
+    },
+    "it": {
+      "name": "Italian",
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/it.yml"
     }
   }
 }
