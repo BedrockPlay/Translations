@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "default": "eng",
   "languages": {
     "afr": {
@@ -33,6 +33,10 @@
     "esp": {
       "name": "Spanish",
       "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/esp.yml"
+    },
+    "it": {
+      "name": "Italian",
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/it.yml"
     }
   }
 }
